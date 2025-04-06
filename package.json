@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"@rescui/use-glow-hover": "^0.7.2"
+	}
+}
